@@ -9,8 +9,8 @@ console.log( `Средняя оценка по предметам ${averageMark}
 
 // Задача 2
 
-let name = " Татьяна";
-let message = "Привет мир! меня зовут" + name;
+let name = "Татьяна";
+let message = ( `Привет мир! Меня зовут ${name}`);
 console.log(message);
 
 // Задача 3
